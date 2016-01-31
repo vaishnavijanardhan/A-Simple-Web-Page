@@ -1,0 +1,190 @@
+#page
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 740px;
+    width: 780px;
+}
+
+#all_links { 
+        
+            padding:10px;
+            height:134px;
+            text-align: right;
+            width: 205px;
+            margin-left: auto;
+            margin-right: auto;
+            position: absolute;
+    background-image: url(side_main.png);
+    left: -10px;
+    top: 60px;
+
+    }
+
+h1.menu {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: relative;
+    top: -60px;
+    left: 0px;
+    font-size: 28px;
+}
+
+h3.home {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    font-size: 16px;
+    line-height: 5px;
+    width: 100px;
+    height:100px;
+}
+
+h3.reviews {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 25px;
+    left: 140px;
+    font-size: 16px;
+    line-height: 5px;
+}
+
+h3.deals {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 50px;
+    left: 160px;
+    font-size: 16px;
+    line-height: 5px;
+}
+
+h3.follow {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 75px;
+    left: 127px;
+    font-size: 16px;
+    line-height: 5px;
+}
+
+h3.tip{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 100px;
+    left: 153px;
+    font-size: 16px;
+    line-height: 5px;
+}
+
+h3.contact{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 124px;
+    left: 120px;
+    font-size: 16px;
+    line-height: 5px;
+}
+
+
+a
+{
+    color: #696969;
+}
+
+#content{ 
+            height:310px;
+            text-align: right;
+            width: 562px;
+            position: absolute;
+            background-color: white;
+            left: 230px;
+            top: 130px;
+
+    }
+
+#apple
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: -120px;
+    left: 10px;
+    font-size: 32px;
+    
+}
+#insider
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: -120px;
+    left: 95px;
+    font-size: 32px;
+    color: grey;
+}
+
+#today
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: -70px;
+    left: 380px;
+    font-size: 18px;
+    color: lightgrey;
+}
+
+#p1
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+
+#p2
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    font-size: 12px;
+    text-align: left;
+    font-weight: 100;
+}
+
+#p3
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    font-size: 20px;
+    text-align: left;
+}
+
+#p4
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+    font-size: 12px;
+    text-align: left;
+    font-weight: 100;
+}
+
+p.bottom
+{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position: absolute;
+    top: 335px;
+    left: 110px;
+    font-size: 14px;
+
+}
+    
+
+    
+    
